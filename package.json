@@ -9,6 +9,7 @@
     "name": "Your Name",
     "email": "your.email@example.com"
   },
+  "hideInEditor": false,
   "samples": [
     {
       "displayName": "Example Image",
