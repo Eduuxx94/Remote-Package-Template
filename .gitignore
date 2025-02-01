@@ -1,0 +1,35 @@
+# Unity-generated directories
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Unity Package Manager directories
+Packages/
+ProjectSettings/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files (Visual Studio, Rider, etc.)
+.vscode/
+*.sln
+*.csproj
+*.unityproj
+*.user
+*.pidb
+*.suo
+*.tmp
+*.svd
+*.pdb
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Unity cache
+MemoryCaptures/
