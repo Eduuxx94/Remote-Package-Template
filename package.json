@@ -13,7 +13,7 @@
     {
       "displayName": "Example Image",
       "description": "A sample image to test the package.",
-      "path": "Samples~/example.png"
+      "path": "Samples~/"
     }
   ]
 }
